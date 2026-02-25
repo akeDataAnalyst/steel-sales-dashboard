@@ -1,6 +1,6 @@
 # Steel Sales Performance & Market Insights Dashboard  
 
-Interactive Streamlit dashboard analyzing reinforcement bar (rebar) sales in the Ethiopian market (2020–2026), built to showcase end-to-end data analysis skills relevant to **steel manufacturing** and diversified industrial groups such as **AMG Holdings**.
+Interactive Streamlit dashboard analyzing reinforcement bar (rebar) sales in the Ethiopian market (2020–2026), built to showcase end-to-end data analysis skills relevant to steel manufacturing and diversified industrial groups.
 
 ## Key Features
 
@@ -40,23 +40,4 @@ Interactive Streamlit dashboard analyzing reinforcement bar (rebar) sales in the
 | Forecasting         | Prophet                                    |
 | EDA & static plots  | Matplotlib, Seaborn                        |
 | Notebooks           | Jupyter                                    |
-
-
-
-data-analysis  
-streamlit  
-plotly  
-time-series  
-forecasting  
-python  
-data-visualization  
-business-intelligence  
-steel-industry  
-ethiopia  
-portfolio-project  
-sales-analytics  
-manufacturing-analytics  
-prophet-forecasting  
-
-
 
