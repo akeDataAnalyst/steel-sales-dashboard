@@ -1,14 +1,13 @@
 # Steel Sales Performance & Market Insights Dashboard  
 
-Interactive Streamlit dashboard analyzing reinforcement bar (rebar) sales in the Ethiopian market (2020–2026), built to showcase end-to-end data analysis skills relevant to steel manufacturing and diversified industrial groups.
+Analyzing reinforcement bar (rebar) sales in the Ethiopian market (2020–2026), built to showcase end-to-end data analysis skills relevant to steel manufacturing and diversified industrial groups.
 
 ## Key Features
 
 - Monthly revenue & average selling price trends  
 - 12-month revenue forecast (Prophet)  
 - Breakdown by product, region & customer type  
-- Seasonality analysis (Dry vs Wet season)  
-- KPI cards with dynamic filtering  
+- Seasonality analysis (Dry vs Wet season)   
 - Interactive Plotly charts  
 - Business insights & recommendations panel
 
@@ -36,7 +35,6 @@ Interactive Streamlit dashboard analyzing reinforcement bar (rebar) sales in the
 | Language            | Python 3.10+                               |
 | Data processing     | pandas, numpy                              |
 | Visualization       | Plotly & Plotly Express                    |
-| Dashboard           | Streamlit                                  |
 | Forecasting         | Prophet                                    |
 | EDA & static plots  | Matplotlib, Seaborn                        |
 | Notebooks           | Jupyter                                    |
